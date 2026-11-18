@@ -1,0 +1,19 @@
+FACTURA ELECTRÓNICA
+Agroexportadora Valle Verde S.A.C.
+RUC: 20548127936
+Serie-Número: F001-00012874
+
+Fecha de emisión: 08/04/2026
+Fecha de vencimiento: 08/05/2026
+Moneda: PEN
+
+Cliente: Importadora Pacífico Ltda.
+
+Cant. | Descripción | P. Unitario | Importe
+300 | Palta Hass exportación caja 4 kg | S/ 21.60 | S/ 6,480.00
+180 | Mango Kent caja 4 kg | S/ 17.90 | S/ 3,222.00
+1 | Flete refrigerado Callao | S/ 1,850.00 | S/ 1,850.00
+
+Subtotal: S/ 11,552.00
+IGV 18%: S/ 2,079.36
+Total: S/ 13,631.36

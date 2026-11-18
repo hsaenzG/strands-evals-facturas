@@ -1,0 +1,20 @@
+{
+  "issuer_name": "Cacao Fino del Litoral Cía. Ltda.",
+  "issuer_tax_id": "0992846513001",
+  "invoice_uuid": "1004202601099284651300110010010000015372026110018",
+  "issue_date": "2026-04-10",
+  "tax_amount": 965.4,
+  "total": 7401.4,
+  "line_items": [
+    {
+      "description": "Cacao nacional fermentado saco 50 kg",
+      "quantity": 24,
+      "unit_price": 212.0
+    },
+    {
+      "description": "Manteca de cacao 25 kg",
+      "quantity": 8,
+      "unit_price": 168.5
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+FACTURA
+Cacao Fino del Litoral Cía. Ltda.
+RUC: 0992846513001
+Clave de acceso: 1004202601099284651300110010010000015372026110018
+
+Fecha de emisión: 10/04/2026
+Fecha de vencimiento: 10/05/2026
+Moneda: USD
+
+Cliente: Chocolates Mitad del Mundo S.A.
+
+Cant. | Descripción | P. Unitario | Importe
+24 | Cacao nacional fermentado saco 50 kg | $ 212.00 | $ 5,088.00
+8 | Manteca de cacao 25 kg | $ 168.50 | $ 1,348.00
+
+Subtotal: $ 6,436.00
+IVA 15%: $ 965.40
+Total: $ 7,401.40

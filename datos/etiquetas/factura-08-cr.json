@@ -1,0 +1,25 @@
+{
+  "issuer_name": "Café Altura Tarrazú S.A.",
+  "issuer_tax_id": "3-101-684205",
+  "invoice_uuid": "00100001010000004127",
+  "issue_date": "2026-05-06",
+  "tax_amount": 246740.0,
+  "total": 2144740.0,
+  "line_items": [
+    {
+      "description": "Café molido tueste medio 1 kg",
+      "quantity": 90,
+      "unit_price": 9800.0
+    },
+    {
+      "description": "Café en grano 5 kg",
+      "quantity": 20,
+      "unit_price": 46500.0
+    },
+    {
+      "description": "Filtros papel caja 100",
+      "quantity": 40,
+      "unit_price": 2150.0
+    }
+  ]
+}

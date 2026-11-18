@@ -1,0 +1,25 @@
+{
+  "issuer_name": "Comercial Andes Sur SpA",
+  "issuer_tax_id": "76.482.159-K",
+  "invoice_uuid": "48213",
+  "issue_date": "2026-04-03",
+  "tax_amount": 84839.0,
+  "total": 531359.0,
+  "line_items": [
+    {
+      "description": "Taladro percutor 750W",
+      "quantity": 6,
+      "unit_price": 38990.0
+    },
+    {
+      "description": "Set brocas 25 piezas",
+      "quantity": 12,
+      "unit_price": 9490.0
+    },
+    {
+      "description": "Cinta métrica 8 m",
+      "quantity": 30,
+      "unit_price": 3290.0
+    }
+  ]
+}

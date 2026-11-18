@@ -1,0 +1,19 @@
+FACTURA ELECTRÓNICA
+Comercial Andes Sur SpA
+R.U.T.: 76.482.159-K
+Folio N°: 48213
+
+Fecha de emisión: 03-04-2026
+Fecha de vencimiento: 03-05-2026
+Moneda: CLP
+
+Cliente: Ferretería El Roble Ltda.
+
+Cant. | Descripción | P. Unitario | Importe
+6 | Taladro percutor 750W | $ 38.990 | $ 233.940
+12 | Set brocas 25 piezas | $ 9.490 | $ 113.880
+30 | Cinta métrica 8 m | $ 3.290 | $ 98.700
+
+Subtotal: $ 446.520
+IVA 19%: $ 84.839
+Total: $ 531.359

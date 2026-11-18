@@ -1,0 +1,20 @@
+{
+  "issuer_name": "Servicios Integrales Tlalli S. de R.L.",
+  "issuer_tax_id": "SIT110930HN2",
+  "invoice_uuid": "b7e24d90-1c6a-4f3b-8d52-0a9e7c3f6b21",
+  "issue_date": "2026-03-25",
+  "tax_amount": 977.6,
+  "total": 7087.6,
+  "line_items": [
+    {
+      "description": "Mantenimiento mensual de equipo de cómputo",
+      "quantity": 1,
+      "unit_price": 3200.0
+    },
+    {
+      "description": "Licencia de antivirus anual",
+      "quantity": 6,
+      "unit_price": 485.0
+    }
+  ]
+}

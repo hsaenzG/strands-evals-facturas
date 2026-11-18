@@ -1,0 +1,30 @@
+{
+  "issuer_name": "Molinos Pampa Hermanos S.R.L.",
+  "issuer_tax_id": "30-71528439-6",
+  "invoice_uuid": "0004-00031572",
+  "issue_date": "2026-03-02",
+  "tax_amount": 453495.0,
+  "total": 2612995.0,
+  "line_items": [
+    {
+      "description": "Harina 000 bolsa 25 kg",
+      "quantity": 80,
+      "unit_price": 18900.0
+    },
+    {
+      "description": "Levadura fresca 500 g",
+      "quantity": 120,
+      "unit_price": 2350.0
+    },
+    {
+      "description": "Margarina industrial 10 kg",
+      "quantity": 15,
+      "unit_price": 21400.0
+    },
+    {
+      "description": "Sal fina bolsa 1 kg",
+      "quantity": 50,
+      "unit_price": 890.0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+FACTURA (CFDI 4.0)
+Servicios Integrales Tlalli S. de R.L.
+RFC: SIT110930HN2
+UUID: b7e24d90-1c6a-4f3b-8d52-0a9e7c3f6b21
+
+Fecha de emisión: 25/03/2026
+Fecha de vencimiento: 09/04/2026
+Moneda: MXN
+
+Cliente: Clínica Dental Sonrisa
+
+Cant. | Descripción | P. Unitario | Importe
+1 | Mantenimiento mensual de equipo de cómputo | $ 3,200.00 | $ 3,200.00
+6 | Licencia de antivirus anual | $ 485.00 | $ 2,910.00
+
+Subtotal: $ 6,110.00
+IVA 16%: $ 977.60
+Total: $ 7,087.60

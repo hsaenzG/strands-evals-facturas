@@ -1,0 +1,19 @@
+FACTURA ELECTRÓNICA
+Café Altura Tarrazú S.A.
+Cédula Jurídica: 3-101-684205
+Consecutivo: 00100001010000004127
+
+Fecha de emisión: 06/05/2026
+Fecha de vencimiento: 05/06/2026
+Moneda: CRC
+
+Cliente: Cafetería Los Jaules
+
+Cant. | Descripción | P. Unitario | Importe
+90 | Café molido tueste medio 1 kg | ₡ 9.800,00 | ₡ 882.000,00
+20 | Café en grano 5 kg | ₡ 46.500,00 | ₡ 930.000,00
+40 | Filtros papel caja 100 | ₡ 2.150,00 | ₡ 86.000,00
+
+Subtotal: ₡ 1.898.000,00
+IVA 13%: ₡ 246.740,00
+Total: ₡ 2.144.740,00

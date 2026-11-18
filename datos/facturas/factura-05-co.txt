@@ -1,0 +1,18 @@
+FACTURA ELECTRÓNICA DE VENTA
+Textiles Cafetal Ltda.
+NIT: 901.384.275-3
+CUFE: 8c2f1e47a9d35b60c14e7f82d09a3b5e6f17c284d93ab0e51f6c7d28a4e90b13
+
+Fecha de emisión: 2026-03-11
+Fecha de vencimiento: 2026-04-10
+Moneda: COP
+
+Cliente: Confecciones La Sabana S.A.S.
+
+Cant. | Descripción | P. Unitario | Importe
+450 | Tela algodón peinado (metro) | $ 18.500,00 | $ 8.325.000,00
+60 | Hilo poliéster cono 5000 m | $ 7.200,00 | $ 432.000,00
+
+Subtotal: $ 8.757.000,00
+IVA 19%: $ 1.663.830,00
+Total: $ 10.420.830,00

@@ -1,0 +1,20 @@
+{
+  "issuer_name": "Textiles Cafetal Ltda.",
+  "issuer_tax_id": "901.384.275-3",
+  "invoice_uuid": "8c2f1e47a9d35b60c14e7f82d09a3b5e6f17c284d93ab0e51f6c7d28a4e90b13",
+  "issue_date": "2026-03-11",
+  "tax_amount": 1663830.0,
+  "total": 10420830.0,
+  "line_items": [
+    {
+      "description": "Tela algodón peinado (metro)",
+      "quantity": 450,
+      "unit_price": 18500.0
+    },
+    {
+      "description": "Hilo poliéster cono 5000 m",
+      "quantity": 60,
+      "unit_price": 7200.0
+    }
+  ]
+}

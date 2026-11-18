@@ -1,0 +1,25 @@
+{
+  "issuer_name": "Agroexportadora Valle Verde S.A.C.",
+  "issuer_tax_id": "20548127936",
+  "invoice_uuid": "F001-00012874",
+  "issue_date": "2026-04-08",
+  "tax_amount": 2079.36,
+  "total": 13631.36,
+  "line_items": [
+    {
+      "description": "Palta Hass exportación caja 4 kg",
+      "quantity": 300,
+      "unit_price": 21.6
+    },
+    {
+      "description": "Mango Kent caja 4 kg",
+      "quantity": 180,
+      "unit_price": 17.9
+    },
+    {
+      "description": "Flete refrigerado Callao",
+      "quantity": 1,
+      "unit_price": 1850.0
+    }
+  ]
+}
