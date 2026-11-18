@@ -7,6 +7,10 @@ Un agente en Amazon Bedrock (Amazon Nova) extrae los datos de una factura electr
 Adapta, en español y con un caso propio, el post original de Strands:
 [Evaluating structured agent output, field by field, with Strands Evals](https://strandsagents.com/blog/structured-output-similarity-strands-evals/).
 
+## Arquitectura
+
+![Arquitectura del demo: datos de facturas y etiquetas alimentan al agente de Strands, que usa Nova en Amazon Bedrock y devuelve un Invoice; el evaluador StructuredOutputSimilarity produce un reporte con per_case, field_metrics y reporte.json.](docs/arquitectura.png)
+
 ## Qué hay aquí
 
 | Archivo | Para qué sirve |
